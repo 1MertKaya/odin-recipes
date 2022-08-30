@@ -41,5 +41,6 @@ a:active {
     border: 2px solid black;
     text-align: center;
     display: inline-block;
-    margin-bottom: 5px;
+    margin: 5px;
+    width: 300px;
 }
